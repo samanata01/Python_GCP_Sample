@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "erudite-gate-405305",
+  "private_key_id": "97944dafc53d7a629f5c91809cdd91d87434f337",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKXUiboORDtwvd\nF/CdNQsj+GON3QOUku+R6PQr4lowp+FZyUp24RR9dLfFShK6LFvSl692PeqUnTf8\n/xARk8Dh/Ssl9J1iBVMC195qD1nBOsIGwEYaLC8Ldf9Xypd7IWLJEalCoTOLGrkh\nvu/PIfHNZaIMDB4Kkvrah+sd/E9fQc2+NLANDDz9tHfoJEezJ4SvRuPbKlI+orr+\nuXrCGFf9ldrwW9D2nVXJIqV8pB3bsJF3rPJxsDPbLQX4+9BsiiMOZZVQv84JTcBR\nOQFA8QMkdsTFDG9kNvsoYFO1uA9zk0QrEfBkBruZRJcbN79g88/NcVAaYc0TkC1X\nZpSUUSi5AgMBAAECggEAQhnQjzDs/ACdtVEzjRcDLHsErIhSpo8PzogY5kIrziTV\nvrwwS9y5mjnBdYouqix47YGzvGxV/guh7Ma5mXwZ4Jy/GVHkQijDAI+6XLbarTpx\n6SHAG87R5srHYtyRQ6yucdpzHza91g29Ngbur+jKiNKt+M1tKKYRG4dlZpzcGmg0\nemt37YBZMhcAYm+7eCYISVfF+sIpT4ffcjmP5JvI3ocJ8cY9CiFsL9f9r0jGxvOJ\n9ZEvYMXsITTZti1wdiVFuNXR0k3CmGaUR8qo/1B68Or6nbwIK9hyBQJ84M5yMoNf\nlpbIarHE1wAu1wdgwOf15SGjtJWyxHsw3dY5HPY8lQKBgQDDh9IfjuE0K6cQR0zL\nbtVwbRIKuixzEh+0n9LKcUi2K8pWaheH6ZfuiOUPdLXJc5lOzbFBuA8ZIBYfSor+\nxX/L24JI5jXRJ9y+A6CvZRD1aFKJjwPP6mRIry01LlUN4SvjAPtPr4gWQzbgPsdl\nugq1KnBOM2Q53NyWDaNSjrWo2wKBgQC1J5xDemFOBfrn0R1+cVx3ziGntquyXmuI\np779lTG9IG4Dy1D6FjdJMyxHtq9UK/U0rEvDjENm3Jr4OEvbDP8CTPd5DycqrR5B\nsWYLNq4iNsY2equuRK2zBpWsGoeOKxBSpryvfhgyg7pILnCY50++/jm4reoxl5xI\n8Kl4LHvu+wKBgQCtPBiefShp4IMTmRgg5QGVqgziFDBtgxE0JqXLVrLlM8cA6N4Q\nPJWvcPoAx5aH9TNO7k6tuzUlPZhcAN9E+hZPtxunGs9zj62za+NhglmUE+mMlnj6\nLODMxOd4xqP0uBr59FS0NQCNON/VrclcB4iVGhSGNGIIIfYNu+eHrYilIQKBgDXZ\n8o/0n1xsVqv29AeUd2J9+m861EuP2fOjuhjz8vc/3rRuCkJtvD2cYrtmyTQCZUAl\nP9h/p8G6Lq8/PP1/HYd3jdGE+aWsFOR+cdE/jgBJvB6R1NtXOzOO74tbz5QppQ6M\n1mZs25CYrBWtCHfLu18Rf+MwgAACC8l7EUXSI31lAoGAVBvGEMB1pVfB7W9sRVLP\n2sYXwNIHSBI2vz2xXDLpu4ViAotBogvsyTNDfJld6SLrXEqo/iur3H1IxOX9DcZx\nFE4FMY/Q5orruv0dWRHHkEK7jZcWO541wjCJl02CwXfnLv2Zat4ib6ryXGMEqynh\nXIoGhCq6nlWWRg5CnlouHXA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-account@erudite-gate-405305.iam.gserviceaccount.com",
+  "client_id": "116226783380968557676",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-account%40erudite-gate-405305.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

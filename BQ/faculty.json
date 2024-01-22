@@ -1,0 +1,40 @@
+
+    {
+      "FirstName": "Rohit",
+      "LastName": "Kasar",
+      "Email": "Rohit@gmail.com",
+      "Mobile": 7688767878,
+      "Education": "BE",
+      "Address": "Pune",
+      "Pincode": 768876,
+      "Designation": "Dean",
+      "Salary": 768786,
+      "id": 1
+    },
+    {
+      "FirstName": "Prakash ",
+      "LastName": "Nanajkar",
+      "Email": "prakash@gmail.com",
+      "Mobile": 7878666666,
+      "Education": "BA",
+      "Address": "Vijaynagar, Kalewadi Pune ",
+      "Pincode": 411017,
+      "Designation": "SHop Owner",
+      "Salary": 450000,
+      "id": 2
+ 
+    },
+    {
+      "FirstName": "Rohan",
+      "LastName": "Lokhande",
+      "Email": "rohan@gmail.com",
+      "Mobile": 7898798978,
+      "Education": "MCA",
+      "Address": "VIjaynagar, Kalewadi, Pune",
+      "Pincode": 411014,
+      "Designation": "Assistant Professor",
+      "Salary": 678876,
+
+      "id": 3
+    }
+
